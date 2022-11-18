@@ -1,0 +1,13 @@
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+
+export const NEW_BLOG_SUCCESS = 'NEW_BLOG_SUCCESS';
+export const GET_BLOGS_SUCCESS = 'GET_BLOGS_SUCCESS';
+export const BLOG_FAIL = 'BLOGS_FAIL';
+export const GET_BLOG_BY_ID = 'GET_BLOG_BY_ID';
+export  const CLEAR_CURRENT_BLOG='CLEAR_CURRENT_BLOG';
+export const CLEAR_BLOGS='CLEAR_BLOGS';
